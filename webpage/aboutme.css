@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    width: 55%;
+    margin: auto;
+    color: rgb(106, 56, 73);
+  }
+  h1 {
+    background-color: rgb(250, 240, 243);
+    }
+
+img {
+  width: 250px; height: 310px;
+  margin-bottom: auto;
+}
